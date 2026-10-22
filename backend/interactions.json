@@ -1,0 +1,14 @@
+[
+  {
+    "drug1": "Warfarin",
+    "drug2": "doAmoxicillin",
+    "severity": "Potential interaction",
+    "message": "This combination may require professional review."
+  },
+  {
+    "drug1": "Warfarin",
+    "drug2": "Paracetamol",
+    "severity": "Potential interaction",
+    "message": "This combination may require professional review."
+  }
+]
